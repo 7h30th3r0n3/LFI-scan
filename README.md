@@ -10,7 +10,7 @@
 
 Direction traversal scanner
 
-LFI-Scan-v01 is a perl direction traversal scanner which find the right path and store it in a file.
+LFI-Scan-v1.0 is a perl direction traversal scanner which find the right path and store it in a file.
 
 just launch it with perl , and enter a specific url with a direction traversal parameter.
 
